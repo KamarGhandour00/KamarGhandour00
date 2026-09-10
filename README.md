@@ -48,7 +48,7 @@
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=KamarGhandour00&show_icons=true&theme=default&title_color=f08abb&icon_color=f08abb&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=KamarGhandour00&layout=compact&theme=default&title_color=f08abb&icon_color=f08abb&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
   <br />
-  <img src="https://streak-stats.demolab.com/?user=KamarGhandour00&theme=neon&hide_border=true" alt="GitHub streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=KamarGhandour00&theme=omni&hide_border=true" alt="GitHub streak stats" />
 </p>
 
 ### 📈 Contribution Graph
